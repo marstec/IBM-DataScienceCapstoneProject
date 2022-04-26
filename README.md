@@ -1,2 +1,2 @@
-# SpaceY-AppliedDataScienceCapstone
-SpaceY-AppliedDataScienceCapstone
+# SpaceX-AppliedDataScienceCapstone
+SpaceX-AppliedDataScienceCapstone
